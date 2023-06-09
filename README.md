@@ -1,2 +1,2 @@
-My first readme
-getting updates and learning 
+My first readme file.
+I am getting updates and learning.
